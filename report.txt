@@ -1,0 +1,13 @@
+Score: 100
+
+== junit ==
+edu.wit.cs.comp1000.grading.LA5aGrading#testSubtract: +15
+edu.wit.cs.comp1000.grading.LA5aGrading#testMultiply: +15
+edu.wit.cs.comp1000.grading.LA5aGrading#testDivide: +15
+edu.wit.cs.comp1000.grading.LA5aGrading#testOp: +5
+edu.wit.cs.comp1000.grading.LA5aGrading#testDenom: +5
+edu.wit.cs.comp1000.grading.LA5aGrading#testDivZero: +5
+edu.wit.cs.comp1000.grading.LA5aGrading#testProgAdd: +10
+edu.wit.cs.comp1000.grading.LA5aGrading#testProgSubtract: +10
+edu.wit.cs.comp1000.grading.LA5aGrading#testProgMultiply: +10
+edu.wit.cs.comp1000.grading.LA5aGrading#testProgDivide: +10
